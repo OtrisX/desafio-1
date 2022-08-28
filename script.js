@@ -1,6 +1,4 @@
 const Alunos = require("./alunosClass")
-const fs = require("fs")
-const axios = require("axios")
 const prompt = require("prompt-sync")()
 var colors = require('colors');
 
